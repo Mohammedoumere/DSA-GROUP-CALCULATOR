@@ -33,3 +33,6 @@ int main() {
     }
     return 0;
 }
+int subtract{
+return num1-num2;
+}
